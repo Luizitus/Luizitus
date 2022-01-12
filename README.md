@@ -23,7 +23,7 @@
   <a href = "mailto:luizitus.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luizhenriquemoreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/luizitus/luizitus/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   <p>- 🌱 Atualmente trabalho com Oracle, PHP, JavaScript, HTML e CSS...</p>
