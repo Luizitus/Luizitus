@@ -8,14 +8,11 @@
   <img align="center" alt="luizitus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="luizitus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="luizitus-php" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
-  </div>
-  <div>
-  ## Estudando ##
-  <img align="center" alt="luizitus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <!--img align="center" alt="luizitus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="luizitus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="luizitus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="luizitus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="luizitus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="luizitus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"-->
 </div>
   
   ##
@@ -29,6 +26,5 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-- 🌱 Atualmente trabalho com Oracle, PHP, JavaScript, HTML e CSS...
-- 📫 e-mail de contato: luizitus.dev@gmail.com
-- 📖 Estudando sempre!
+  <p>- 🌱 Atualmente trabalho com Oracle, PHP, JavaScript, HTML e CSS...</p>
+<p>- 📖 Estudando sempre!</p>
