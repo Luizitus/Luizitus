@@ -1,8 +1,8 @@
 ## Olá! Sou Luizitu Moreira e seja bem vindo ao meu GitHub! <br> Sou estudante de desenvolvimento, e toda dica será muito bem vinda! :D
 <div align="center">
   <a href="https://github.com/luizitus">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luizitus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizitus&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luizitus&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizitus&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="luizitus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
