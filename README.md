@@ -27,6 +27,6 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-- 🌱 Atualmente trabalho com Oracle, PHP, JavaScript, html and CSS...
+- 🌱 Atualmente trabalho com Oracle, PHP, JavaScript, HTML e CSS...
 - 📫 e-mail de contato: luizitus.dev@gmail.com
 - 📖 Estudando sempre!
