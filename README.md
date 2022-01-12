@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Luizitus
+- 👋 Olá, sou Luiz Moreira - @Luizitus
 - 👀 I’m interested in new things, and new technologies...
 - 🌱 I’m currently learning Oracle, PHP, JavaScript, html and CSS...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Luizitus/Luizitus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 e-mail de contato: luizitus.dev@gmail.com
+- 📖 Estudando HTML/CSS/
