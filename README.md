@@ -29,4 +29,5 @@
 <p>- 🌱 I currently work with Oracle, PHP, JavaScript, HTML e CSS...</p>
 <p>- 📖 Always studying!!</p>
   <a href="https://luizitus.github.io/Responsividade/#" target="_blank">Responsividade</a>
+  </br>
   <a href="https://luizitus.github.io/Landing_page_ballibot/" target="_blank">Landing Page</a>
