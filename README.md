@@ -26,5 +26,6 @@
   ![Snake animation](https://github.com/luizitus/luizitus/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-  <p>- 🌱 I currently work with Oracle, PHP, JavaScript, HTML e CSS...</p>
+<p>- 🌱 I currently work with Oracle, PHP, JavaScript, HTML e CSS...</p>
 <p>- 📖 Always studying!!</p>
+  <a href="https://luizitus.github.io/Responsividade/#" target="_blank">Responsividade</a>
