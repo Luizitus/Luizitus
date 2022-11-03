@@ -26,6 +26,7 @@
   ![Snake animation](https://github.com/luizitus/luizitus/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+<p>I am currently studying Systems Analysis and Development, I am already graduated in Business Administration, with an MBA in IT Management. I have more than 10 years of experience in the IT area, where I worked exclusively in the infrastructure sector. Some skills such as: good communication, collaboration, problem solving, people management skills, leadership, governance. Daily improving developer skills with HTML, CSS, JavaScript, Bootstrap, PHP, Oracle, SqlServer and always studying, currently React. I have a willingness to learn and dedication to try to achieve my goals.</p>  
 <p>- 🌱 I currently work with Oracle, PHP, JavaScript, HTML e CSS...</p>
 <p>- 📖 Always studying!!</p>
   <a href="https://luizitus.github.io/Responsividade/#" target="_blank">Responsividade</a>
