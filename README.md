@@ -1,4 +1,4 @@
-## Hi! I'm Luizitu Moreira and welcome to my GitHub!! <br> I'm a development student, and any tip will be very welcome!! :D
+## Hi! I'm Luiz Moreira and welcome to my GitHub!! <br> I'm a development student, and any tip will be very welcome!! :D
 <div align="center">
   <a href="https://github.com/luizitus">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luizitus&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
