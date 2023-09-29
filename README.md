@@ -14,7 +14,7 @@
   <img align="center" alt="luizitus-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap">
   <img align="center" alt="luizitus-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git">
   <img align="center" alt="luizitus-Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github">
-  
+  <img align="center" alt="luizitus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!--LINK DE ÍCONES - https://github.com/devicons/devicon/tree/master/icons-->
   <!--img align="center" alt="luizitus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="luizitus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
