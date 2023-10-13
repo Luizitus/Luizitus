@@ -29,8 +29,11 @@
  <a href="[Luizitus]#5220" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/luizhenriquemoreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  //[Snake animation](https://github.com/luizitus/luizitus/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/luizitus/luizitus/blob/output/github-contribution-grid-snake.svg)
   ![Snake_animation](https://raw.githubusercontent.com/luizitus/luizitus/output/github-contribution-grid-snake.svg)
+  ![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
+Preview:
+  
  
 </div>
 <p>I am currently studying Systems Analysis and Development, I am already graduated in Business Administration, with an MBA in IT Management. I have more than 10 years of experience in the IT area, where I worked exclusively in the infrastructure sector. Some skills such as: good communication, collaboration, problem solving, people management skills, leadership, governance. Daily improving developer skills with HTML, CSS, JavaScript, Bootstrap, PHP, Oracle, SqlServer and always studying, currently React. I have a willingness to learn and dedication to try to achieve my goals.</p>  
