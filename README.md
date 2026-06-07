@@ -1,12 +1,15 @@
 # Hi, I'm Luiz Moreira! 👋🖖
 
-### Business Admin | IT Management MBA | Systems Development Student
+### Full Stack Developer | 10+ years in IT | Based in Italy 🇮🇹
 
-I have over 10 years of experience in IT Infrastructure and Management, now pivoting that strategic expertise into Software Development. I am a hybrid professional who bridges the gap between clean code and business strategy.
+I bring a rare combination of **business strategy and software development** — 
+10+ years managing IT infrastructure, now building full stack applications 
+with React, Node.js and SQL databases. Currently based in Italy and open to 
+remote or local opportunities in Europe.
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Tech Stack
 
 **Frontend**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,30 +19,42 @@ I have over 10 years of experience in IT Infrastructure and Management, now pivo
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Backend & Databases**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-**Tools & Others**
+**Tools & Deploy**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
-### 📊 Stats
+### 📊 GitHub Stats
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizitus&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizitus&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=luizitus&theme=merko&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizitus&theme=merko"/>
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-* **[Organo - React](https://alura-react-mauve.vercel.app/)** - Team organization app developed during React studies.
-* **[Web Store Bootstrap](https://nicestyle-webstore.vercel.app/#)** - Responsive e-commerce layout focused on UI/UX design with Bootstrap.
-* **[Credit Card Validator](https://validador-cartao.vercel.app/)** - Programming logic applied to real-time data validation.
-* **[CSS Architecture](https://luizitus.github.io/ARQUITETURA-CSS/)** - Project focused on advanced CSS organization and scalability.
+| Project | Description | Stack | Live |
+|---|---|---|---|
+| **Granizo App** | Full stack system for managing hail-damaged vehicles — entry, service tracking, photo upload and PDF/Excel reports | React · Node.js · Express · SQLite | [🔗 Live](https://granizo-app.vercel.app/) |
+| **Organo** | Team organization app developed during React studies | React | [🔗 Live](https://alura-react-mauve.vercel.app/) |
+| **Web Store** | Responsive e-commerce layout focused on UI/UX | Bootstrap · CSS | [🔗 Live](https://nicestyle-webstore.vercel.app/) |
+| **Card Validator** | Real-time credit card validation with programming logic | JavaScript | [🔗 Live](https://validador-cartao.vercel.app/) |
+| **CSS Architecture** | Advanced CSS organization and scalability patterns | CSS | [🔗 Live](https://luizitus.github.io/ARQUITETURA-CSS/) |
 
 ---
 
@@ -47,7 +62,7 @@ I have over 10 years of experience in IT Infrastructure and Management, now pivo
 
 <p align="left">
 <a href="https://www.linkedin.com/in/luizhenriquemoreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:luizitus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:luizitus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://instagram.com/luizitus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
